@@ -1,2 +1,2 @@
 # CleitonDB
-A mobile beaultiful, minimalist &amp; open-source SQL client 
+A beaultiful, minimalist &amp; open-source mobile SQL client 
